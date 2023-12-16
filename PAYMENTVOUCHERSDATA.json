@@ -1,0 +1,235 @@
+{
+  "DATE": [
+    "20230410"
+  ],
+  "VCHSTATUSDATE": [
+    "20230410"
+  ],
+  "GUID": [
+    "63ddc60e-3469-4e4d-8dbc-e64c390cfb07-0000d56d"
+  ],
+
+  "STATENAME": [
+    "Haryana"
+  ],
+
+  "NARRATION": [
+    "JAGAT PAL"
+  ],
+  
+  "COUNTRYOFRESIDENCE": [
+    "India"
+  ],
+  "PLACEOFSUPPLY": [
+    "Haryana"
+  ],
+
+  "PARTYNAME": [
+    "KOTAK MAHINDRA BANK"
+  ],
+  "GSTREGISTRATION": [
+    {
+      "_": "Haryana Registration",
+      "$": {
+        "TAXTYPE": "GST",
+        "TAXREGISTRATION": "06AHAPG8208K1ZG"
+      }
+    }
+  ],
+  "CMPGSTIN": [
+    "06AHAPG8208K1ZG"
+  ],
+  
+  "VOUCHERTYPENAME": [
+    "Payment"
+  ],
+  
+  "PARTYLEDGERNAME": [
+    "KOTAK MAHINDRA BANK"
+  ],
+  "VOUCHERNUMBER": [
+    "11"
+  ],
+
+  "CMPGSTREGISTRATIONTYPE": [
+    "Regular"
+  ],
+  
+  "PARTYMAILINGNAME": [
+    "KOTAK MAHINDRA BANK"
+  ],
+ 
+ 
+  "CMPGSTSTATE": [
+    "Haryana"
+  ],
+  
+  "NUMBERINGSTYLE": [
+    "Auto Retain"
+  ],
+  "TAXBANKACCOUNTNUMBER": [
+    ""
+  ],
+
+  "CSTFORMRECVTYPE": [
+    "\u0004 Not Applicable"
+  ],
+ 
+  "FBTPAYMENTTYPE": [
+    "Default"
+  ],
+
+  "PERSISTEDVIEW": [
+    "Accounting Voucher View"
+  ],
+
+  "VCHSTATUSTAXADJUSTMENT": [
+    "Default"
+  ],
+  "VCHSTATUSVOUCHERTYPE": [
+    "Payment"
+  ],
+  "VCHSTATUSTAXUNIT": [
+    "Haryana Registration"
+  ],
+  
+  "VCHGSTCLASS": [
+    "\u0004 Not Applicable"
+  ],
+
+  "EFFECTIVEDATE": [
+    "20230410"
+  ],
+
+  "ALTERID": [
+    " 79194"
+  ],
+  "MASTERID": [
+    " 54637"
+  ],
+
+  "VOUCHERKEY": [
+    "193380902502520"
+  ],
+  "VOUCHERRETAINKEY": [
+    "78613"
+  ],
+
+  "VOUCHERNUMBERSERIES": [
+    "Default"
+  ],
+  "UPDATEDDATETIME": [
+    "000000000"
+  ],
+
+  "ALLLEDGERENTRIES.LIST": [
+    {
+      "OLDAUDITENTRYIDS.LIST": [
+        {
+          "$": {
+            "TYPE": "Number"
+          },
+          "OLDAUDITENTRYIDS": [
+            "-1"
+          ]
+        }
+      ],
+  
+      "LEDGERNAME": [
+        "WAGES PAYABLE"
+      ],
+    
+      "GSTCLASS": [
+        "\u0004 Not Applicable"
+      ],
+
+      "AMOUNT": [
+        "-14000.00"
+      ],
+
+      "VATEXPAMOUNT": [
+        "-14000.00"
+      ],
+  
+    },
+    {
+      "OLDAUDITENTRYIDS.LIST": [
+        {
+          "$": {
+            "TYPE": "Number"
+          },
+          "OLDAUDITENTRYIDS": [
+            "-1"
+          ]
+        }
+      ],
+     
+      "APPROPRIATEFOR": [
+        "\u0004 Not Applicable"
+      ],
+      
+      "LEDGERNAME": [
+        "KOTAK MAHINDRA BANK"
+      ],
+     
+      "AMOUNT": [
+        "14000.00"
+      ],
+    
+      "BANKALLOCATIONS.LIST": [
+        {
+          "DATE": [
+            "20230410"
+          ],
+          "INSTRUMENTDATE": [
+            "20230410"
+          ],
+       
+          "NAME": [
+            "7c69ed22-6f16-4c80-b0d9-e77e661d2a46"
+          ],
+        
+          "TRANSACTIONTYPE": [
+            "Cheque"
+          ],
+   
+          "PAYMENTFAVOURING": [
+            "WAGES EXPENSES"
+          ],
+      
+   
+          "CHEQUECROSSCOMMENT": [
+            "A/c Payee"
+          ],
+   
+          "UNIQUEREFERENCENUMBER": [
+            "5byUQDImsbuzonC3"
+          ],
+         
+          "STATUS": [
+            "No"
+          ],
+     
+          "PAYMENTMODE": [
+            "Transacted"
+          ],
+          "SECONDARYSTATUS": [
+            ""
+          ],
+          "BANKEMPLOYEENAME": [
+            ""
+          ],
+          "BANKPARTYNAME": [
+            "WAGES PAYABLE"
+          ],
+          
+          "AMOUNT": [
+            "14000.00"
+          ]
+      
+        }
+      ]
+    }
+  ]
+}
+

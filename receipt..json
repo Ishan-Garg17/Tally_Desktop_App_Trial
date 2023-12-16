@@ -1,0 +1,3629 @@
+[
+  {
+    "$": {
+      "REMOTEID": "63ddc60e-3469-4e4d-8dbc-e64c390cfb07-0000d688",
+      "VCHKEY": "63ddc60e-3469-4e4d-8dbc-e64c390cfb07-0000afdd:00000048",
+      "VCHTYPE": "Receipt",
+      "ACTION": "Create",
+      "OBJVIEW": "Accounting Voucher View"
+    },
+    "OLDAUDITENTRYIDS.LIST": [
+      {
+        "$": {
+          "TYPE": "Number"
+        },
+        "OLDAUDITENTRYIDS": [
+          "-1"
+        ]
+      }
+    ],
+    "VATREGISTRATIONDATE": [
+      ""
+    ],
+    "CSTREGISTRATIONDATE": [
+      ""
+    ],
+    "FROMDATE": [
+      ""
+    ],
+    "TODATE": [
+      ""
+    ],
+    "ACTIVETO": [
+      ""
+    ],
+    "ALTEREDON": [
+      ""
+    ],
+    "DATE": [
+      "20230406"
+    ],
+    "LUTDATEOFISSUE": [
+      ""
+    ],
+    "LUTEXPIRYDATE": [
+      ""
+    ],
+    "BONDDATEOFISSUE": [
+      ""
+    ],
+    "BONDEXPIRYDATE": [
+      ""
+    ],
+    "TAXCHEQUEDATE": [
+      ""
+    ],
+    "TAXCHALLANDATE": [
+      ""
+    ],
+    "REFERENCEDATE": [
+      ""
+    ],
+    "SHIPPINGBILLDATE": [
+      ""
+    ],
+    "BILLOFENTRYDATE": [
+      ""
+    ],
+    "VATPARTYTRANSRETURNDATE": [
+      ""
+    ],
+    "ORIGINALVCHDATE": [
+      ""
+    ],
+    "ISDDOCUMENTDATE": [
+      ""
+    ],
+    "IRNCANCELDATE": [
+      ""
+    ],
+    "IRNACKDATE": [
+      ""
+    ],
+    "RECONCILATIONDATE": [
+      ""
+    ],
+    "FORM16ISSUEDATE": [
+      ""
+    ],
+    "CSTFORMISSUEDATE": [
+      ""
+    ],
+    "CSTFORMRECVDATE": [
+      ""
+    ],
+    "CERTIFICATEDATE": [
+      ""
+    ],
+    "TRADERMFGRINVOICEDT": [
+      ""
+    ],
+    "FBTFROMDATE": [
+      ""
+    ],
+    "FBTTODATE": [
+      ""
+    ],
+    "RETURNINVOICEDATE": [
+      ""
+    ],
+    "AGGREMENTORDERDATE": [
+      ""
+    ],
+    "GOODSRCPTDATE": [
+      ""
+    ],
+    "LORRYRECPTDATE": [
+      ""
+    ],
+    "TRANSSALELANDINGDATE": [
+      ""
+    ],
+    "TRANSBUYERLANDINGDATE": [
+      ""
+    ],
+    "CREDITLETTERDATE": [
+      ""
+    ],
+    "AIRWAYBILLDATE": [
+      ""
+    ],
+    "VATORDERDATE": [
+      ""
+    ],
+    "INVDELIVERYDATE": [
+      ""
+    ],
+    "BILLOFLADINGDATE": [
+      ""
+    ],
+    "VATDEPOSITDATE": [
+      ""
+    ],
+    "VATDOCUMENTDATE": [
+      ""
+    ],
+    "VATCHALLANDATE": [
+      ""
+    ],
+    "ECDATE": [
+      ""
+    ],
+    "VATTDSDATE": [
+      ""
+    ],
+    "ADJFROMDATE": [
+      ""
+    ],
+    "ADJTODATE": [
+      ""
+    ],
+    "VATDDCHEQUEDATE": [
+      ""
+    ],
+    "VATDUEDATE": [
+      ""
+    ],
+    "VATINTDATE": [
+      ""
+    ],
+    "VATDELAY": [
+      ""
+    ],
+    "VATGRNDATE": [
+      ""
+    ],
+    "REFUNDORDERDT": [
+      ""
+    ],
+    "VATFORMSUBMISSIONDATE": [
+      ""
+    ],
+    "VATCANCSALESINVOICEDATE": [
+      ""
+    ],
+    "VATFORMTWELVEDATE": [
+      ""
+    ],
+    "UTKAGREEORDDATE": [
+      ""
+    ],
+    "UTKGOODSDELDATE": [
+      ""
+    ],
+    "VATBILTYDATE": [
+      ""
+    ],
+    "EIDESPDATE": [
+      ""
+    ],
+    "VATCSTE1SERIESDATE": [
+      ""
+    ],
+    "VCHVATDEPOSITDATE": [
+      ""
+    ],
+    "VCHREFERENCEDATE": [
+      ""
+    ],
+    "TAXPAYPERIODFROMDATE": [
+      ""
+    ],
+    "TAXPAYPERIODTODATE": [
+      ""
+    ],
+    "STTAXCHALLANDATE": [
+      ""
+    ],
+    "GSTCHALLANDATE": [
+      ""
+    ],
+    "GSTCHALLANEXPIRYDATE": [
+      ""
+    ],
+    "ADJPARTYINVOICEDATE": [
+      ""
+    ],
+    "ADJPARTYPAYMENTDATE": [
+      ""
+    ],
+    "PARTYORDERDATE": [
+      ""
+    ],
+    "ADVANCERECEIPTDATE": [
+      ""
+    ],
+    "REFUNDVOUCHERDATE": [
+      ""
+    ],
+    "VCHSTATUSDATE": [
+      "20230406"
+    ],
+    "PAYMENTLINKEXPIRYDATE": [
+      ""
+    ],
+    "VATSUBMISSIONDATE": [
+      ""
+    ],
+    "PARTYINVDATE": [
+      ""
+    ],
+    "INSPDOCDATE": [
+      ""
+    ],
+    "VATCANCINVDATE": [
+      ""
+    ],
+    "VATGOODSRECEIPTDATE": [
+      ""
+    ],
+    "VATCSTE1DATE": [
+      ""
+    ],
+    "DISPATCHDATE": [
+      ""
+    ],
+    "AUDITEDON": [
+      ""
+    ],
+    "GUID": [
+      "63ddc60e-3469-4e4d-8dbc-e64c390cfb07-0000d688"
+    ],
+    "VATDISTRICTNAME": [
+      ""
+    ],
+    "GSTREGISTRATIONTYPE": [
+      "Unregistered/Consumer"
+    ],
+    "VATDEALERTYPE": [
+      ""
+    ],
+    "STATENAME": [
+      "Haryana"
+    ],
+    "PRICELEVEL": [
+      ""
+    ],
+    "TDSNATUREOFPAYMENT": [
+      ""
+    ],
+    "AUTOCOSTLEVEL": [
+      ""
+    ],
+    "PURPOSETYPE": [
+      ""
+    ],
+    "NARRATION": [
+      "SWEEP TRF"
+    ],
+    "ENTEREDBY": [
+      ""
+    ],
+    "ALTEREDBY": [
+      ""
+    ],
+    "TYPEOFUPDATEACTIVITY": [
+      ""
+    ],
+    "OBJECTUPDATEACTION": [
+      ""
+    ],
+    "REQUESTORRULE": [
+      ""
+    ],
+    "COUNTRYOFRESIDENCE": [
+      "India"
+    ],
+    "IMPORTEREXPORTERCODE": [
+      ""
+    ],
+    "PARTYGSTIN": [
+      ""
+    ],
+    "VATDEALERNATURE": [
+      ""
+    ],
+    "NATUREOFSALES": [
+      ""
+    ],
+    "EXCISENOTIFICATIONNO": [
+      ""
+    ],
+    "PLACEOFSUPPLY": [
+      "Haryana"
+    ],
+    "LUTNUMBER": [
+      ""
+    ],
+    "BONDNUMBER": [
+      ""
+    ],
+    "AUTHORITYNAME": [
+      ""
+    ],
+    "AUTHORITYADDRESS": [
+      ""
+    ],
+    "TAXUNITNAME": [
+      ""
+    ],
+    "ITEMSTATE": [
+      ""
+    ],
+    "EXCISEUNITNAME": [
+      ""
+    ],
+    "CLASSNAME": [
+      ""
+    ],
+    "POSCARDLEDGER": [
+      ""
+    ],
+    "POSCASHLEDGER": [
+      ""
+    ],
+    "POSGIFTLEDGER": [
+      ""
+    ],
+    "POSCHEQUELEDGER": [
+      ""
+    ],
+    "SECTIONNAME": [
+      ""
+    ],
+    "EXCISECLASSIFICATIONNAME": [
+      ""
+    ],
+    "TDSSECTIONNO": [
+      ""
+    ],
+    "TDSDEDNSTATUS": [
+      ""
+    ],
+    "TAXBANKCHALLANNUMBER": [
+      ""
+    ],
+    "TAXCHALLANBSRCODE": [
+      ""
+    ],
+    "TAXCHEQUENUMBER": [
+      ""
+    ],
+    "TAXBANKNAME": [
+      ""
+    ],
+    "TAXBANKBRANCHNAME": [
+      ""
+    ],
+    "PARTYNAME": [
+      ""
+    ],
+    "GSTREGISTRATION": [
+      {
+        "_": "Haryana Registration",
+        "$": {
+          "TAXTYPE": "GST",
+          "TAXREGISTRATION": "06AHAPG8208K1ZG"
+        }
+      }
+    ],
+    "CMPGSTIN": [
+      "06AHAPG8208K1ZG"
+    ],
+    "RETURNNAME": [
+      ""
+    ],
+    "VOUCHERTYPENAME": [
+      "Receipt"
+    ],
+    "ECOMMERCEGSTIN": [
+      ""
+    ],
+    "PARTYLEDGERNAME": [
+      "KOTAK MAHINDRA BANK"
+    ],
+    "VOUCHERNUMBER": [
+      "10"
+    ],
+    "TAXADJUSTMENT": [
+      ""
+    ],
+    "BUYERADDRESSTYPE": [
+      ""
+    ],
+    "PORTCODE": [
+      ""
+    ],
+    "SHIPPINGBILLNO": [
+      ""
+    ],
+    "BILLOFENTRYNO": [
+      ""
+    ],
+    "VATPARTYTRANSRETURNNUMBER": [
+      ""
+    ],
+    "BASICBUYERNAME": [
+      ""
+    ],
+    "CMPGSTREGISTRATIONTYPE": [
+      "Regular"
+    ],
+    "URDORIGINALSALEVALUE": [
+      ""
+    ],
+    "GSTNATUREOFRETURN": [
+      ""
+    ],
+    "ORIGINALVCHNUMBER": [
+      ""
+    ],
+    "ISDDOCUMENTNUMBER": [
+      ""
+    ],
+    "TAXPAYMENTTYPE": [
+      ""
+    ],
+    "STATPAYMENTTYPE": [
+      ""
+    ],
+    "GSTADDITIONALDETAILS": [
+      ""
+    ],
+    "REFERENCE": [
+      ""
+    ],
+    "GSTITCDOCUMENTTYPE": [
+      ""
+    ],
+    "PARTYMAILINGNAME": [
+      ""
+    ],
+    "PARTYPINCODE": [
+      ""
+    ],
+    "IRN": [
+      ""
+    ],
+    "IRNCANCELREASON": [
+      ""
+    ],
+    "IRNCANCELCODE": [
+      ""
+    ],
+    "BILLTOPLACE": [
+      ""
+    ],
+    "DISPATCHFROMNAME": [
+      ""
+    ],
+    "DISPATCHFROMSTATENAME": [
+      ""
+    ],
+    "DISPATCHFROMPINCODE": [
+      ""
+    ],
+    "DISPATCHFROMPLACE": [
+      ""
+    ],
+    "SHIPTOPLACE": [
+      ""
+    ],
+    "CONSIGNEEGSTIN": [
+      ""
+    ],
+    "CONSIGNEEMAILINGNAME": [
+      ""
+    ],
+    "CONSIGNEEPINCODE": [
+      ""
+    ],
+    "CONSIGNEESTATENAME": [
+      ""
+    ],
+    "CMPGSTSTATE": [
+      "Haryana"
+    ],
+    "IRNQRCODE": [
+      ""
+    ],
+    "CONSIGNEECOUNTRYNAME": [
+      ""
+    ],
+    "PARTYADDRESSTYPE": [
+      ""
+    ],
+    "GSTSUPPLYTYPE": [
+      ""
+    ],
+    "IRNACKNO": [
+      ""
+    ],
+    "BASICBASEPARTYNAME": [
+      ""
+    ],
+    "BASICVOUCHERCHEQUENAME": [
+      ""
+    ],
+    "BASICVOUCHERCROSSCOMMENT": [
+      ""
+    ],
+    "EXCHGCURRENCYNAME": [
+      ""
+    ],
+    "SERIALMASTER": [
+      ""
+    ],
+    "SERIALNUMBER": [
+      ""
+    ],
+    "STATADJUSTMENTTYPE": [
+      ""
+    ],
+    "CONSIGNEEIECODE": [
+      ""
+    ],
+    "SUPPLIERIECODE": [
+      ""
+    ],
+    "ARESERIALMASTER": [
+      ""
+    ],
+    "ARESERIALNUMBER": [
+      ""
+    ],
+    "SUMAUTOVCHNUM": [
+      ""
+    ],
+    "VCHRETAINEDPURPOSE": [
+      ""
+    ],
+    "NUMBERINGSTYLE": [
+      "Auto Retain"
+    ],
+    "TAXBANKACCOUNTNUMBER": [
+      ""
+    ],
+    "CSTFORMISSUETYPE": [
+      "\u0004 Not Applicable"
+    ],
+    "CSTFORMISSUENUMBER": [
+      ""
+    ],
+    "CSTFORMRECVTYPE": [
+      "\u0004 Not Applicable"
+    ],
+    "CSTFORMRECVNUMBER": [
+      ""
+    ],
+    "CONSIGNEECSTNUMBER": [
+      ""
+    ],
+    "BUYERSCSTNUMBER": [
+      ""
+    ],
+    "CSTFORMISSUESERIESNUM": [
+      ""
+    ],
+    "CSTFORMRECVSERIESNUM": [
+      ""
+    ],
+    "EXCISETREASURYNUMBER": [
+      ""
+    ],
+    "EXCISETREASURYNAME": [
+      ""
+    ],
+    "CERTIFICATETYPE": [
+      ""
+    ],
+    "CERTIFICATENUMBER": [
+      ""
+    ],
+    "AREFORMTYPE": [
+      ""
+    ],
+    "DESTINATIONTAXUNIT": [
+      ""
+    ],
+    "TRADERCONSVATTINNO": [
+      ""
+    ],
+    "TRADERCONSEXCISEREGNNO": [
+      ""
+    ],
+    "TRADERCONSRANGE": [
+      ""
+    ],
+    "TRADERCONSDIVISION": [
+      ""
+    ],
+    "TRADERCONSCOMMISSIONERATE": [
+      ""
+    ],
+    "TRADERSUPPEXCISEREGNNO": [
+      ""
+    ],
+    "TRADERSUPPRANGE": [
+      ""
+    ],
+    "TRADERSUPPDIVISION": [
+      ""
+    ],
+    "TRADERSUPPCOMMISSIONERATE": [
+      ""
+    ],
+    "TRADERMFGREXCISEREGNNO": [
+      ""
+    ],
+    "TRADERMFGRRANGE": [
+      ""
+    ],
+    "TRADERMFGRDIVISION": [
+      ""
+    ],
+    "TRADERMFGRCOMMISSIONERATE": [
+      ""
+    ],
+    "TRADERMFGRNAME": [
+      ""
+    ],
+    "TRADERMFGRINVOICENO": [
+      ""
+    ],
+    "FBTPAYMENTTYPE": [
+      "Default"
+    ],
+    "POSCARDNUMBER": [
+      ""
+    ],
+    "POSCHEQUENUMBER": [
+      ""
+    ],
+    "POSCHEQUEBANKNAME": [
+      ""
+    ],
+    "CHALLANTYPE": [
+      ""
+    ],
+    "CHEQUEDEPOSITORNAME": [
+      ""
+    ],
+    "EXCISENOTIFICATIONSERIALNO": [
+      ""
+    ],
+    "PERSISTEDVIEW": [
+      "Accounting Voucher View"
+    ],
+    "EXCISETARIFFTYPE": [
+      ""
+    ],
+    "CONSIGNEELBTREGNNO": [
+      ""
+    ],
+    "CONSIGNEELBTZONE": [
+      ""
+    ],
+    "SUPPLIERLBTREGNNO": [
+      ""
+    ],
+    "SUPPLIERLBTZONE": [
+      ""
+    ],
+    "LBTMAPPEDCATEGORY": [
+      ""
+    ],
+    "LBTMAPPEDZONE": [
+      ""
+    ],
+    "LBTNATUREOFLIABILITY": [
+      ""
+    ],
+    "CASHPARTYPAN": [
+      ""
+    ],
+    "CASHPARTYDEDTYPE": [
+      ""
+    ],
+    "VCHTAXTYPE": [
+      ""
+    ],
+    "PURPOSEOFPURCHASE": [
+      ""
+    ],
+    "POINTOFTRANSACTION": [
+      ""
+    ],
+    "TRANSPORTERNAME": [
+      ""
+    ],
+    "TRANSPORTMODE": [
+      ""
+    ],
+    "AGGREMENTORDERNO": [
+      ""
+    ],
+    "FOREIGNSELLERNAME": [
+      ""
+    ],
+    "EXPORTERCOUNTRY": [
+      ""
+    ],
+    "GOODSVEHICLENUMBER": [
+      ""
+    ],
+    "SHIPNAME": [
+      ""
+    ],
+    "SHIPAGENTNAME": [
+      ""
+    ],
+    "CLEARINGAGENTNAME": [
+      ""
+    ],
+    "LORRYRECPTNO": [
+      ""
+    ],
+    "CARRIERNAME": [
+      ""
+    ],
+    "CREDITLETTERREF": [
+      ""
+    ],
+    "AIRWAYBILLNO": [
+      ""
+    ],
+    "FWDAGENTNAME": [
+      ""
+    ],
+    "VATORDERNO": [
+      ""
+    ],
+    "VATSELLERTIN": [
+      ""
+    ],
+    "TRANSSOURCEPLACE": [
+      ""
+    ],
+    "TRANSCATEGORY": [
+      ""
+    ],
+    "VATDOCUMENTTYPE": [
+      ""
+    ],
+    "VATTRANSBILLQTY": [
+      ""
+    ],
+    "VATTRANSBILLNO": [
+      ""
+    ],
+    "BILLOFLADINGNO": [
+      ""
+    ],
+    "VATPAIDAGAINST": [
+      ""
+    ],
+    "VATBANKNAME": [
+      ""
+    ],
+    "VATBANKBRANCH": [
+      ""
+    ],
+    "VATDDCHEQUENO": [
+      ""
+    ],
+    "VATADJUSTMENTTYPE": [
+      ""
+    ],
+    "VATFORMSTATUS": [
+      ""
+    ],
+    "VATDOCUMENTNUMBER": [
+      ""
+    ],
+    "VATSOURCESTATE": [
+      ""
+    ],
+    "VATDESTINATIONSTATE": [
+      ""
+    ],
+    "VATDESTINATIONPLACE": [
+      ""
+    ],
+    "VATPARTYORGTYPE": [
+      ""
+    ],
+    "VATPARTYTYPE": [
+      ""
+    ],
+    "VATCHALLANNUMBER": [
+      ""
+    ],
+    "VATDESIGOFPURCHASER": [
+      ""
+    ],
+    "VATPURCHASERCPTTYPE": [
+      ""
+    ],
+    "VATGOODSRCPTNO": [
+      ""
+    ],
+    "VATPARTYORGNAME": [
+      ""
+    ],
+    "AIRPORTNAME": [
+      ""
+    ],
+    "TDNOFAWARDER": [
+      ""
+    ],
+    "ECNUMBER": [
+      ""
+    ],
+    "ECISSUINGAUTHORITY": [
+      ""
+    ],
+    "CONTRACTORTIN": [
+      ""
+    ],
+    "VATTDSBARCODE": [
+      ""
+    ],
+    "VATPYMTMODEOFDEPOSIT": [
+      ""
+    ],
+    "VATPYMTTAXDESC": [
+      ""
+    ],
+    "VATBANKACCNUMBER": [
+      ""
+    ],
+    "VATBRANCHCODE": [
+      ""
+    ],
+    "VATTRANSSOURCE": [
+      ""
+    ],
+    "VATADJADDLDETAILS": [
+      ""
+    ],
+    "VATBRANCHNAME": [
+      ""
+    ],
+    "PRIORITYSTATECONFLICT": [
+      ""
+    ],
+    "EICHECKPOST": [
+      ""
+    ],
+    "PORTNAME": [
+      ""
+    ],
+    "VATEFORMAPPLICABLE": [
+      ""
+    ],
+    "VATEFORMAPPLICABLENO": [
+      ""
+    ],
+    "VATINCOURSEOF": [
+      ""
+    ],
+    "VATDISPATCHTIME": [
+      ""
+    ],
+    "VATTRANSPORTERADDRESS": [
+      ""
+    ],
+    "VATCONTRACTEETDN": [
+      ""
+    ],
+    "VATCONTRACTEEDISTRICT": [
+      ""
+    ],
+    "VATCONTRACTEENAME": [
+      ""
+    ],
+    "CONSUMERIDENTIFICATIONNUMBER": [
+      ""
+    ],
+    "VATVCHRHANDLE": [
+      ""
+    ],
+    "VATCHALLANNO": [
+      ""
+    ],
+    "TAXINVOICENO": [
+      ""
+    ],
+    "VATTREASURY": [
+      ""
+    ],
+    "VATTYPE": [
+      ""
+    ],
+    "VATISSUEBANK": [
+      ""
+    ],
+    "BOOKNUMBER": [
+      ""
+    ],
+    "VATCHALLANAGAINST": [
+      ""
+    ],
+    "VATPAYMENTMODE": [
+      ""
+    ],
+    "VATDEMANDPURPOSE": [
+      ""
+    ],
+    "VATFORM38NO": [
+      ""
+    ],
+    "VATCUSTOMSENTRYNO": [
+      ""
+    ],
+    "VATPARTNERNAME": [
+      ""
+    ],
+    "VATDRIVERADDRESS": [
+      ""
+    ],
+    "VATSOURCEDISTRICT": [
+      ""
+    ],
+    "VATDESTINATIONDISTRICT": [
+      ""
+    ],
+    "VATLICENSESTATE": [
+      ""
+    ],
+    "VATVEHICLENO": [
+      ""
+    ],
+    "VATWAYBILLNUMBER": [
+      ""
+    ],
+    "VATCHECKPOSTNAME": [
+      ""
+    ],
+    "VATCANCSALESINVOICENO": [
+      ""
+    ],
+    "VATCANCSALESPARTYNAME": [
+      ""
+    ],
+    "VATCANCSALESPARTYCSTTIN": [
+      ""
+    ],
+    "VATFORMTWELVENO": [
+      ""
+    ],
+    "UTKAGREEORDNO": [
+      ""
+    ],
+    "UTKTRNSPORTCMPNAME": [
+      ""
+    ],
+    "UTKTRANSPORTMODE": [
+      ""
+    ],
+    "UTKTRANSPORTVEHNO": [
+      ""
+    ],
+    "VATBILTYNO": [
+      ""
+    ],
+    "VATFORM49NO": [
+      ""
+    ],
+    "VATCATEGORYTYPE": [
+      ""
+    ],
+    "VATWAYBILLQTY": [
+      ""
+    ],
+    "VCHVATDOCUMENTTYPE": [
+      ""
+    ],
+    "REFUNDORDERNO": [
+      ""
+    ],
+    "VATPURPOSECODE": [
+      ""
+    ],
+    "VATDESCRIPTION": [
+      ""
+    ],
+    "DEPOTNAME": [
+      ""
+    ],
+    "CMPTYPEOFDEVICE": [
+      ""
+    ],
+    "CMPDEVICENO": [
+      ""
+    ],
+    "VATBANK": [
+      ""
+    ],
+    "VATBRANCH": [
+      ""
+    ],
+    "VATDRAFTCHEQUENO": [
+      ""
+    ],
+    "VATWCDESC": [
+      ""
+    ],
+    "VATCHECKPOST": [
+      ""
+    ],
+    "VATCSTE1SERIESNUMBER": [
+      ""
+    ],
+    "VATCSTE1SERIALNUMBER": [
+      ""
+    ],
+    "BUYERPINNO": [
+      ""
+    ],
+    "CONSIGNEEPINNO": [
+      ""
+    ],
+    "VATEXEMPTCERTIFINO": [
+      ""
+    ],
+    "VATWAYBILLNO": [
+      ""
+    ],
+    "VATBRIEFDESC": [
+      ""
+    ],
+    "VATEXPORTENTRYNUMBER": [
+      ""
+    ],
+    "STTVCHRHANDLE": [
+      ""
+    ],
+    "SRVTREGNUMBER": [
+      ""
+    ],
+    "STTAXBANKCHALLANNUMBER": [
+      ""
+    ],
+    "TYPEOFEXCISEVOUCHER": [
+      ""
+    ],
+    "GSTBANKNAME": [
+      ""
+    ],
+    "GSTBANKACCOUNTNUMBER": [
+      ""
+    ],
+    "GSTBANKACCOUNTTYPE": [
+      ""
+    ],
+    "GSTBANKACCOUNTHOLDER": [
+      ""
+    ],
+    "GSTBANKBRANCHADDRESS": [
+      ""
+    ],
+    "GSTBANKIFSCCODE": [
+      ""
+    ],
+    "GSTBANKMICRCODE": [
+      ""
+    ],
+    "GSTDEBITDOCNUMBER": [
+      ""
+    ],
+    "GSTPYMTMODEOFDEPOSIT": [
+      ""
+    ],
+    "GSTBANKBRANCHNAME": [
+      ""
+    ],
+    "GSTINSTRUMENTNUMBER": [
+      ""
+    ],
+    "GSTCHALLANNUMBER": [
+      ""
+    ],
+    "GSTCPINNUMBER": [
+      ""
+    ],
+    "GSTCINNUMBER": [
+      ""
+    ],
+    "ADJPARTYGSTIN": [
+      ""
+    ],
+    "ADJPARTYINVOICENO": [
+      ""
+    ],
+    "GSTMERCHANTID": [
+      ""
+    ],
+    "PARTYORDERNO": [
+      ""
+    ],
+    "GSTITCREVERSALDETAILS": [
+      ""
+    ],
+    "GSTACTIVITYSTATUS": [
+      ""
+    ],
+    "GSTRECONSTATUS": [
+      ""
+    ],
+    "GSTREASONFORREJECTION": [
+      ""
+    ],
+    "ADVANCERECEIPTNUMBER": [
+      ""
+    ],
+    "REFUNDVOUCHERNUMBER": [
+      ""
+    ],
+    "GSTNATURE": [
+      ""
+    ],
+    "VCHTAXUNIT": [
+      ""
+    ],
+    "DISPATCHFROMADDRESSTYPE": [
+      ""
+    ],
+    "VCHSTATUSTAXADJUSTMENT": [
+      "Default"
+    ],
+    "VCHSTATUSVOUCHERTYPE": [
+      "Receipt"
+    ],
+    "VCHSTATUSTAXUNIT": [
+      "Haryana Registration"
+    ],
+    "PAYMENTLINK": [
+      ""
+    ],
+    "BASICSHIPPEDBY": [
+      ""
+    ],
+    "BASICDESTINATIONCOUNTRY": [
+      ""
+    ],
+    "BASICPLACEOFRECEIPT": [
+      ""
+    ],
+    "BASICSHIPDOCUMENTNO": [
+      ""
+    ],
+    "BASICPORTOFLOADING": [
+      ""
+    ],
+    "BASICPORTOFDISCHARGE": [
+      ""
+    ],
+    "BASICFINALDESTINATION": [
+      ""
+    ],
+    "BASICORDERREF": [
+      ""
+    ],
+    "BASICSHIPVESSELNO": [
+      ""
+    ],
+    "BASICBUYERSSALESTAXNO": [
+      ""
+    ],
+    "BASICDUEDATEOFPYMT": [
+      ""
+    ],
+    "BASICSERIALNUMINPLA": [
+      ""
+    ],
+    "BASICDATETIMEOFINVOICE": [
+      ""
+    ],
+    "BASICDATETIMEOFREMOVAL": [
+      ""
+    ],
+    "MFGRADDRESSTYPE": [
+      ""
+    ],
+    "TRANSPORTERADDRROOM": [
+      ""
+    ],
+    "TRANSPORTERADDRBLDG": [
+      ""
+    ],
+    "TRANSPORTERADDRROAD": [
+      ""
+    ],
+    "TRANSPORTERADDRAREA": [
+      ""
+    ],
+    "TRANSPORTERADDRTOWN": [
+      ""
+    ],
+    "TRANSPORTERADDRDIST": [
+      ""
+    ],
+    "TRANSPORTERADDRSTATE": [
+      ""
+    ],
+    "TRANSPORTERADDRPINCODE": [
+      ""
+    ],
+    "TRANSPORTERADDRPHONE": [
+      ""
+    ],
+    "TRANSPORTERADDRFAX": [
+      ""
+    ],
+    "TRANSPORTERVEHICLE2": [
+      ""
+    ],
+    "TRANSPORTLOCALTIN": [
+      ""
+    ],
+    "VATCFORMISSUESTATE": [
+      ""
+    ],
+    "PLACEOFSUPPLYSTATE": [
+      ""
+    ],
+    "PLACEOFSUPPLYCOUNTRY": [
+      ""
+    ],
+    "EMIRATEPOS": [
+      ""
+    ],
+    "VCHGSTCLASS": [
+      "\u0004 Not Applicable"
+    ],
+    "COSTCENTRENAME": [
+      ""
+    ],
+    "ADDITIONALNARRATION": [
+      ""
+    ],
+    "PARTYINVNO": [
+      ""
+    ],
+    "INSPDOCNO": [
+      ""
+    ],
+    "SETTLEMENTTYPE": [
+      ""
+    ],
+    "VOUCHERTIME": [
+      ""
+    ],
+    "HOLDREFERENCE": [
+      ""
+    ],
+    "VATCANCINVNO": [
+      ""
+    ],
+    "VATCANCPURCTIN": [
+      ""
+    ],
+    "VATCANCPURCNAME": [
+      ""
+    ],
+    "VATTYPEOFDEVICE": [
+      ""
+    ],
+    "VATBRIEFDESCRIPTION": [
+      ""
+    ],
+    "VATDEVICENO": [
+      ""
+    ],
+    "BUYERPINNUMBER": [
+      ""
+    ],
+    "VATEXPORTENTRYNO": [
+      ""
+    ],
+    "CONSIGNEEPINNUMBER": [
+      ""
+    ],
+    "VATEXEMPTCERTIFICATENO": [
+      ""
+    ],
+    "VATVEHICLENUMBER": [
+      ""
+    ],
+    "VATGOODSRECEIPTNUMBER": [
+      ""
+    ],
+    "VATMOBILENUMBER": [
+      ""
+    ],
+    "VATCSTE1SERIESNO": [
+      ""
+    ],
+    "VATCSTE1SERIALNO": [
+      ""
+    ],
+    "VATPERMITFORM": [
+      ""
+    ],
+    "VATCERTIFICATENO": [
+      ""
+    ],
+    "CONSIGNEECIRCLE": [
+      ""
+    ],
+    "CONSIGNEECITY": [
+      ""
+    ],
+    "CONSIGNEEMOBILENUMBER": [
+      ""
+    ],
+    "CONSIGNEEOTHERS": [
+      ""
+    ],
+    "CONSIGNEEMAIL": [
+      ""
+    ],
+    "DELIVERYCITY": [
+      ""
+    ],
+    "DELIVERYPINCODE": [
+      ""
+    ],
+    "DELIVERYOTHERS": [
+      ""
+    ],
+    "DELIVERYSTATE": [
+      ""
+    ],
+    "DISPATCHCITY": [
+      ""
+    ],
+    "DISPATCHPINCODE": [
+      ""
+    ],
+    "DESTINATIONPERMITNUMBER": [
+      ""
+    ],
+    "ENTRYCHECKPOSTLOCATION": [
+      ""
+    ],
+    "EXITCHECKPOSTLOCATION": [
+      ""
+    ],
+    "VATTDSDEDUCTORNAME": [
+      ""
+    ],
+    "VCHENTRYMODE": [
+      ""
+    ],
+    "ISDDCNOTEDOCNUMBER": [
+      ""
+    ],
+    "VOUCHERTYPEORIGNAME": [
+      ""
+    ],
+    "DIFFACTUALQTY": [
+      "No"
+    ],
+    "ISMSTFROMSYNC": [
+      "No"
+    ],
+    "ISDELETED": [
+      "No"
+    ],
+    "ISSECURITYONWHENENTERED": [
+      "No"
+    ],
+    "ASORIGINAL": [
+      "No"
+    ],
+    "AUDITED": [
+      "No"
+    ],
+    "ISCOMMONPARTY": [
+      "Yes"
+    ],
+    "FORJOBCOSTING": [
+      "No"
+    ],
+    "ISOPTIONAL": [
+      "No"
+    ],
+    "EFFECTIVEDATE": [
+      "20230406"
+    ],
+    "USEFOREXCISE": [
+      "No"
+    ],
+    "ISFORJOBWORKIN": [
+      "No"
+    ],
+    "ALLOWCONSUMPTION": [
+      "No"
+    ],
+    "USEFORINTEREST": [
+      "No"
+    ],
+    "USEFORGAINLOSS": [
+      "No"
+    ],
+    "USEFORGODOWNTRANSFER": [
+      "No"
+    ],
+    "USEFORCOMPOUND": [
+      "No"
+    ],
+    "USEFORSERVICETAX": [
+      "No"
+    ],
+    "ISREVERSECHARGEAPPLICABLE": [
+      "No"
+    ],
+    "ISSYSTEM": [
+      "No"
+    ],
+    "ISFETCHEDONLY": [
+      "No"
+    ],
+    "ISGSTOVERRIDDEN": [
+      "No"
+    ],
+    "ISCANCELLED": [
+      "No"
+    ],
+    "ISONHOLD": [
+      "No"
+    ],
+    "ISSUMMARY": [
+      "No"
+    ],
+    "ISECOMMERCESUPPLY": [
+      "No"
+    ],
+    "ISBOENOTAPPLICABLE": [
+      "No"
+    ],
+    "ISGSTSECSEVENAPPLICABLE": [
+      "No"
+    ],
+    "IGNOREEINVVALIDATION": [
+      "No"
+    ],
+    "CMPGSTISOTHTERRITORYASSESSEE": [
+      "No"
+    ],
+    "PARTYGSTISOTHTERRITORYASSESSEE": [
+      "No"
+    ],
+    "IRNJSONEXPORTED": [
+      "No"
+    ],
+    "IRNCANCELLED": [
+      "No"
+    ],
+    "IGNOREGSTCONFLICTINMIG": [
+      "No"
+    ],
+    "ISOPBALTRANSACTION": [
+      "No"
+    ],
+    "IGNOREGSTFORMATVALIDATION": [
+      "No"
+    ],
+    "ISELIGIBLEFORITC": [
+      "No"
+    ],
+    "UPDATESUMMARYVALUES": [
+      "No"
+    ],
+    "ISEWAYBILLAPPLICABLE": [
+      "No"
+    ],
+    "ISDELETEDRETAINED": [
+      "No"
+    ],
+    "ISNULL": [
+      "No"
+    ],
+    "ISEXCISEVOUCHER": [
+      "No"
+    ],
+    "EXCISETAXOVERRIDE": [
+      "No"
+    ],
+    "USEFORTAXUNITTRANSFER": [
+      "No"
+    ],
+    "ISEXER1NOPOVERWRITE": [
+      "No"
+    ],
+    "ISEXF2NOPOVERWRITE": [
+      "No"
+    ],
+    "ISEXER3NOPOVERWRITE": [
+      "No"
+    ],
+    "IGNOREPOSVALIDATION": [
+      "No"
+    ],
+    "EXCISEOPENING": [
+      "No"
+    ],
+    "USEFORFINALPRODUCTION": [
+      "No"
+    ],
+    "ISTDSOVERRIDDEN": [
+      "No"
+    ],
+    "ISTCSOVERRIDDEN": [
+      "No"
+    ],
+    "ISTDSTCSCASHVCH": [
+      "No"
+    ],
+    "INCLUDEADVPYMTVCH": [
+      "No"
+    ],
+    "ISSUBWORKSCONTRACT": [
+      "No"
+    ],
+    "ISVATOVERRIDDEN": [
+      "No"
+    ],
+    "IGNOREORIGVCHDATE": [
+      "No"
+    ],
+    "ISVATPAIDATCUSTOMS": [
+      "No"
+    ],
+    "ISDECLAREDTOCUSTOMS": [
+      "No"
+    ],
+    "VATADVANCEPAYMENT": [
+      "No"
+    ],
+    "VATADVPAY": [
+      "No"
+    ],
+    "ISCSTDELCAREDGOODSSALES": [
+      "No"
+    ],
+    "ISVATRESTAXINV": [
+      "No"
+    ],
+    "ISSERVICETAXOVERRIDDEN": [
+      "No"
+    ],
+    "ISISDVOUCHER": [
+      "No"
+    ],
+    "ISEXCISEOVERRIDDEN": [
+      "No"
+    ],
+    "ISEXCISESUPPLYVCH": [
+      "No"
+    ],
+    "GSTNOTEXPORTED": [
+      "No"
+    ],
+    "IGNOREGSTINVALIDATION": [
+      "No"
+    ],
+    "ISGSTREFUND": [
+      "No"
+    ],
+    "OVRDNEWAYBILLAPPLICABILITY": [
+      "No"
+    ],
+    "ISVATPRINCIPALACCOUNT": [
+      "No"
+    ],
+    "VCHSTATUSISVCHNUMUSED": [
+      "No"
+    ],
+    "VCHGSTSTATUSISINCLUDED": [
+      "No"
+    ],
+    "VCHGSTSTATUSISUNCERTAIN": [
+      "No"
+    ],
+    "VCHGSTSTATUSISEXCLUDED": [
+      "No"
+    ],
+    "VCHGSTSTATUSISAPPLICABLE": [
+      "No"
+    ],
+    "VCHGSTSTATUSISGSTR2BRECONCILED": [
+      "No"
+    ],
+    "VCHGSTSTATUSISGSTR2BONLYINPORTAL": [
+      "No"
+    ],
+    "VCHGSTSTATUSISGSTR2BONLYINBOOKS": [
+      "No"
+    ],
+    "VCHGSTSTATUSISGSTR2BMISMATCH": [
+      "No"
+    ],
+    "VCHGSTSTATUSISGSTR2BINDIFFPERIOD": [
+      "No"
+    ],
+    "VCHGSTSTATUSISRETEFFDATEOVERRDN": [
+      "No"
+    ],
+    "VCHGSTSTATUSISOVERRDN": [
+      "No"
+    ],
+    "VCHGSTSTATUSISSTATINDIFFDATE": [
+      "No"
+    ],
+    "VCHGSTSTATUSISRETINDIFFDATE": [
+      "No"
+    ],
+    "VCHGSTSTATUSMAINSECTIONEXCLUDED": [
+      "No"
+    ],
+    "VCHGSTSTATUSISBRANCHTRANSFEROUT": [
+      "No"
+    ],
+    "VCHGSTSTATUSISSYSTEMSUMMARY": [
+      "No"
+    ],
+    "VCHSTATUSISUNREGISTEREDRCM": [
+      "No"
+    ],
+    "VCHSTATUSISOPTIONAL": [
+      "No"
+    ],
+    "VCHSTATUSISCANCELLED": [
+      "No"
+    ],
+    "VCHSTATUSISDELETED": [
+      "No"
+    ],
+    "VCHSTATUSISOPENINGBALANCE": [
+      "No"
+    ],
+    "VCHSTATUSISFETCHEDONLY": [
+      "No"
+    ],
+    "PAYMENTLINKHASMULTIREF": [
+      "No"
+    ],
+    "ISSHIPPINGWITHINSTATE": [
+      "No"
+    ],
+    "ISOVERSEASTOURISTTRANS": [
+      "No"
+    ],
+    "ISDESIGNATEDZONEPARTY": [
+      "No"
+    ],
+    "HASCASHFLOW": [
+      "Yes"
+    ],
+    "ISPOSTDATED": [
+      "No"
+    ],
+    "USETRACKINGNUMBER": [
+      "No"
+    ],
+    "ISINVOICE": [
+      "No"
+    ],
+    "MFGJOURNAL": [
+      "No"
+    ],
+    "HASDISCOUNTS": [
+      "No"
+    ],
+    "ASPAYSLIP": [
+      "No"
+    ],
+    "ISCOSTCENTRE": [
+      "No"
+    ],
+    "ISSTXNONREALIZEDVCH": [
+      "No"
+    ],
+    "ISEXCISEMANUFACTURERON": [
+      "No"
+    ],
+    "ISBLANKCHEQUE": [
+      "No"
+    ],
+    "ISVOID": [
+      "No"
+    ],
+    "ORDERLINESTATUS": [
+      "No"
+    ],
+    "VATISAGNSTCANCSALES": [
+      "No"
+    ],
+    "VATISPURCEXEMPTED": [
+      "No"
+    ],
+    "ISVATRESTAXINVOICE": [
+      "No"
+    ],
+    "VATISASSESABLECALCVCH": [
+      "No"
+    ],
+    "ISVATDUTYPAID": [
+      "Yes"
+    ],
+    "ISDELIVERYSAMEASCONSIGNEE": [
+      "No"
+    ],
+    "ISDISPATCHSAMEASCONSIGNOR": [
+      "No"
+    ],
+    "ISDELETEDVCHRETAINED": [
+      "No"
+    ],
+    "CHANGEVCHMODE": [
+      "No"
+    ],
+    "RESETIRNQRCODE": [
+      "No"
+    ],
+    "ERRKEY": [
+      "0"
+    ],
+    "ALTERID": [
+      " 73903"
+    ],
+    "MASTERID": [
+      " 54920"
+    ],
+    "QRCODECRC": [
+      "0"
+    ],
+    "VOUCHERKEY": [
+      "193363722633288"
+    ],
+    "VOUCHERRETAINKEY": [
+      "32205"
+    ],
+    "ECFEERATE": [
+      "0"
+    ],
+    "VATCONSIGNMENTNO": [
+      "0"
+    ],
+    "VATRATEOFTAX": [
+      "0"
+    ],
+    "EIDISCOUNTRATE": [
+      "0"
+    ],
+    "WBTRANSFERASSESSRATE": [
+      "0"
+    ],
+    "VATWCDEDUCTIONPERC": [
+      "0"
+    ],
+    "RATEOFINVOICETAX": [
+      "0"
+    ],
+    "VCHSTATUSDUMMYLONG": [
+      "0"
+    ],
+    "VATTDSRATE": [
+      "0"
+    ],
+    "REUSEHOLEID": [
+      "0"
+    ],
+    "EXCHANGEACTIVITYID": [
+      "0"
+    ],
+    "BONDAMOUNT": [
+      ""
+    ],
+    "POSCASHRECEIVED": [
+      ""
+    ],
+    "CUSTOMDUTYPAID": [
+      ""
+    ],
+    "VATPARTYITCCLAIMED": [
+      ""
+    ],
+    "VATPARTYTAXLIABILITY": [
+      ""
+    ],
+    "VALUEOFWORKSCONTRACT": [
+      ""
+    ],
+    "ECFEEAMOUNT": [
+      ""
+    ],
+    "ECFEEDEPOSITBYAWARDER": [
+      ""
+    ],
+    "ECFEEDEPOSITBYCONTRACTOR": [
+      ""
+    ],
+    "TDSDEDUCTED": [
+      ""
+    ],
+    "VALUEOFSUBWORKSCONT": [
+      ""
+    ],
+    "VATTDSAMT": [
+      ""
+    ],
+    "VATPURCHASEVALUE": [
+      ""
+    ],
+    "MAHWCASSESSABLEVALUE": [
+      ""
+    ],
+    "WBTRANSFERBASEVALUE": [
+      ""
+    ],
+    "VATWCDEDUCTIONAMT": [
+      ""
+    ],
+    "VATWCOTHERDEDUCTAMT": [
+      ""
+    ],
+    "CESSASSVALONCLASS": [
+      ""
+    ],
+    "ADDNLVATCLASSAMT": [
+      ""
+    ],
+    "ADJPARTYINVOICEVALUE": [
+      ""
+    ],
+    "GSTINVASSESSABLEVALUE": [
+      ""
+    ],
+    "EIDISCOUNTAMT": [
+      ""
+    ],
+    "PAYMENTLINKAMOUNT": [
+      ""
+    ],
+    "VATGOODSVALUE": [
+      ""
+    ],
+    "EXCHGRATE": [
+      ""
+    ],
+    "PROCESSINGDURATION": [
+      ""
+    ],
+    "VOUCHERNUMBERSERIES": [
+      "Default"
+    ],
+    "UPDATEDDATETIME": [
+      "000000000"
+    ],
+    "TEMPFROMDATE": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSIGNORADDRESSTYPE": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSIGNEEADDRESSTYPE": [
+      ""
+    ],
+    "EIDEFAULTLED_ISZRBASICSERVICE": [
+      ""
+    ],
+    "PREVBOMNAME": [
+      ""
+    ],
+    "CURBOMNAME": [
+      ""
+    ],
+    "COMMONNATUREOFPAYMENT": [
+      ""
+    ],
+    "COMMONISBASEDONREALIZATION": [
+      ""
+    ],
+    "COMMONISTDSDEDUCTED": [
+      ""
+    ],
+    "TEMPISVCHSUPPLFILLED": [
+      ""
+    ],
+    "CURRPARTYLEDGERNAME": [
+      ""
+    ],
+    "CURRBASICBUYERNAME": [
+      ""
+    ],
+    "CURRPARTYNAME": [
+      ""
+    ],
+    "CURRBUYERADDRESSTYPE": [
+      ""
+    ],
+    "CURRPARTYADDRESSTYPE": [
+      ""
+    ],
+    "CURRSTATENAME": [
+      ""
+    ],
+    "CURRBASICPURCHASEORDERNO": [
+      ""
+    ],
+    "CURRBASICSHIPDELIVERYNOTE": [
+      ""
+    ],
+    "POSSTAXPARTYLEDGERNAME": [
+      ""
+    ],
+    "ISCSTAGTFORMC": [
+      ""
+    ],
+    "EIDEFAULTLED_ISUSERDEFINED": [
+      ""
+    ],
+    "EIDEFAULTLED_CLASSNAME": [
+      ""
+    ],
+    "EIDEFAULTLED_CLASSRATE": [
+      "0"
+    ],
+    "EIDEFAULTLED_CLASSADDLRATE": [
+      "0"
+    ],
+    "TEMPVATCLASSIFICATION": [
+      ""
+    ],
+    "ISATTDDATAPRESERVED": [
+      ""
+    ],
+    "TEMPGSTEWAYBILLNUMBER": [
+      ""
+    ],
+    "TEMPGSTEWAYBILLDATE": [
+      ""
+    ],
+    "TEMPGSTEWAYSUBTYPE": [
+      ""
+    ],
+    "TEMPGSTEWAYDOCUMENTTYPE": [
+      ""
+    ],
+    "TEMPGSTEWAYSTATUS": [
+      ""
+    ],
+    "TEMPGSTEWAYISCANCELLED": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSIGNOR": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSIGNORADDRESS": [
+      ""
+    ],
+    "TEMPGSTEWAYFROMPLACE": [
+      ""
+    ],
+    "TEMPCONSIGNORPINCODENUMBER": [
+      "0"
+    ],
+    "TEMPGSTEWAYPINCODENUMBER": [
+      "0"
+    ],
+    "TEMPGSTEWAYPINCODE": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSIGNORTIN": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSIGNORSTATE": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSSHIPFROMSTATE": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSIGNEE": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSADDRESS": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSFROMPLACE": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSPINCODENUMBER": [
+      "0"
+    ],
+    "TEMPCONSIGNEEPINCODENUMBER": [
+      "0"
+    ],
+    "TEMPGSTEWAYCONSPINCODE": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSTIN": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSSTATE": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSSHIPTOSTATE": [
+      ""
+    ],
+    "TEMPGSTEWAYTRANSPORTMODE": [
+      ""
+    ],
+    "TEMPGSTEWAYDISTANCE": [
+      "0"
+    ],
+    "TEMPGSTEWAYTRANSPORTERNAME": [
+      ""
+    ],
+    "TEMPGSTEWAYVEHICLENUMBER": [
+      ""
+    ],
+    "TEMPGSTEWAYTRANSPORTERID": [
+      ""
+    ],
+    "TEMPGSTEWAYTRANSPORTERDOCNO": [
+      ""
+    ],
+    "TEMPGSTEWAYTRANSPORTERDOCDATE": [
+      ""
+    ],
+    "TEMPGSTEWAYVEHICLETYPE": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSBILLNUMBER": [
+      ""
+    ],
+    "TEMPGSTEWAYCONSBILLDATE": [
+      ""
+    ],
+    "TEMPISUSERDEFINEDCLASS": [
+      ""
+    ],
+    "TEMPCLASSNATURE": [
+      ""
+    ],
+    "TEMPGSTOVRDNINELIGIBLEITC": [
+      ""
+    ],
+    "TEMPGSTOVRDNISREVCHARGEAPPL": [
+      ""
+    ],
+    "TEMPGSTOVRDNTAXABILITY": [
+      ""
+    ],
+    "TEMPGSTOVRDNISREVCHARGEAPPLSTR": [
+      ""
+    ],
+    "TEMPGSTOVRDNINELIGIBLEITCSTR": [
+      ""
+    ],
+    "TEMPGSTVCHDESTINATIONSTATE": [
+      ""
+    ],
+    "TEMPGSTPARTYLEDLOCTYPE": [
+      ""
+    ],
+    "TEMPGSTPARTYDEALERTYPE": [
+      ""
+    ],
+    "TEMPGSTRISCOMMONPARTY": [
+      ""
+    ],
+    "TEMPGSTRCOUNTRY": [
+      ""
+    ],
+    "TEMPGSTRSTATE": [
+      ""
+    ],
+    "TEMPGSTRTIN": [
+      ""
+    ],
+    "TEMPGSTRDEALERTYPE": [
+      ""
+    ],
+    "CURRGSTCOUNTRY": [
+      ""
+    ],
+    "TEMPGSTSTATUS": [
+      ""
+    ],
+    "EWAYBILLDETAILS.LIST": [
+      "      "
+    ],
+    "EXCLUDEDTAXATIONS.LIST": [
+      "      "
+    ],
+    "OLDAUDITENTRIES.LIST": [
+      "      "
+    ],
+    "ACCOUNTAUDITENTRIES.LIST": [
+      "      "
+    ],
+    "AUDITENTRIES.LIST": [
+      "      "
+    ],
+    "DUTYHEADDETAILS.LIST": [
+      "      "
+    ],
+    "GSTADVADJDETAILS.LIST": [
+      "      "
+    ],
+    "CONTRITRANS.LIST": [
+      "      "
+    ],
+    "EWAYBILLERRORLIST.LIST": [
+      "      "
+    ],
+    "IRNERRORLIST.LIST": [
+      "      "
+    ],
+    "HARYANAVAT.LIST": [
+      "      "
+    ],
+    "SUPPLEMENTARYDUTYHEADDETAILS.LIST": [
+      "      "
+    ],
+    "INVOICEDELNOTES.LIST": [
+      "      "
+    ],
+    "INVOICEORDERLIST.LIST": [
+      "      "
+    ],
+    "INVOICEINDENTLIST.LIST": [
+      "      "
+    ],
+    "ATTENDANCEENTRIES.LIST": [
+      "      "
+    ],
+    "ORIGINVOICEDETAILS.LIST": [
+      "      "
+    ],
+    "INVOICEEXPORTLIST.LIST": [
+      "      "
+    ],
+    "ALLLEDGERENTRIES.LIST": [
+      {
+        "OLDAUDITENTRYIDS.LIST": [
+          {
+            "$": {
+              "TYPE": "Number"
+            },
+            "OLDAUDITENTRYIDS": [
+              "-1"
+            ]
+          }
+        ],
+        "ORIGPURCHINVDATE": [
+          ""
+        ],
+        "NARRATION": [
+          ""
+        ],
+        "ADDLALLOCTYPE": [
+          ""
+        ],
+        "TAXCLASSIFICATIONNAME": [
+          ""
+        ],
+        "APPROPRIATEFOR": [
+          "\u0004 Not Applicable"
+        ],
+        "GSTDUTYHEAD": [
+          ""
+        ],
+        "GSTAPPROPRIATETO": [
+          ""
+        ],
+        "NOTIFICATIONSLNO": [
+          ""
+        ],
+        "EXCISEALLOCTYPE": [
+          ""
+        ],
+        "SWIFTCODE": [
+          ""
+        ],
+        "ROUNDTYPE": [
+          ""
+        ],
+        "LEDGERNAME": [
+          "KOTAK MAHINDRA BANK(AUTO F.D)"
+        ],
+        "TAXUNITNAME": [
+          ""
+        ],
+        "STATNATURENAME": [
+          ""
+        ],
+        "GOODSTYPE": [
+          ""
+        ],
+        "VATTRADENAME": [
+          ""
+        ],
+        "METHODTYPE": [
+          ""
+        ],
+        "CLASSRATE": [
+          ""
+        ],
+        "STATCLASSIFICATIONNAME": [
+          ""
+        ],
+        "EXCISECLASSIFICATIONNAME": [
+          ""
+        ],
+        "ISZRBASICSERVICE": [
+          ""
+        ],
+        "VATCOMMODITYNAME": [
+          ""
+        ],
+        "SCHEDULE": [
+          ""
+        ],
+        "SCHEDULESERIALNUMBER": [
+          ""
+        ],
+        "VATCOMMODITYCODE": [
+          ""
+        ],
+        "VATSUBCOMMODITYCODE": [
+          ""
+        ],
+        "VATMAJORCOMMODITYNAME": [
+          ""
+        ],
+        "STRDGSTDERIVEDLOCATIONTYPE": [
+          ""
+        ],
+        "STRDGSTDERIVEDTAXABILITY": [
+          ""
+        ],
+        "STRDGSTDERIVEDNATURETYPE": [
+          ""
+        ],
+        "STRDGSTDERIVEDSUPPLYTYPE": [
+          ""
+        ],
+        "TDSPARTYNAME": [
+          ""
+        ],
+        "VATPARTYORGNAME": [
+          ""
+        ],
+        "XBRLADJTYPE": [
+          ""
+        ],
+        "VOUCHERFBTCATEGORY": [
+          ""
+        ],
+        "TYPEOFTAXPAYMENT": [
+          ""
+        ],
+        "VATCALCULATIONTYPE": [
+          ""
+        ],
+        "VATWORKSCONTRACTTYPE": [
+          ""
+        ],
+        "VATWCDESCRIPTION": [
+          ""
+        ],
+        "GSTCLASS": [
+          "\u0004 Not Applicable"
+        ],
+        "SCHVIADJTYPE": [
+          ""
+        ],
+        "GSTOVRDNCLASSIFICATION": [
+          ""
+        ],
+        "GSTOVRDNNATURE": [
+          ""
+        ],
+        "GSTOVRDNINELIGIBLEITC": [
+          ""
+        ],
+        "GSTOVRDNISREVCHARGEAPPL": [
+          ""
+        ],
+        "GSTOVRDNTAXABILITY": [
+          ""
+        ],
+        "GSTHSNSACCODE": [
+          ""
+        ],
+        "GSTSOURCETYPE": [
+          ""
+        ],
+        "GSTITEMSOURCE": [
+          ""
+        ],
+        "GSTLEDGERSOURCE": [
+          ""
+        ],
+        "GSTGROUPSOURCE": [
+          ""
+        ],
+        "GSTSTOCKGROUPSOURCE": [
+          ""
+        ],
+        "HSNSOURCETYPE": [
+          ""
+        ],
+        "HSNITEMSOURCE": [
+          ""
+        ],
+        "HSNLEDGERSOURCE": [
+          ""
+        ],
+        "HSNGROUPSOURCE": [
+          ""
+        ],
+        "HSNSTOCKGROUPSOURCE": [
+          ""
+        ],
+        "GSTOVRDNSTOREDNATURE": [
+          ""
+        ],
+        "GSTOVRDNTYPEOFSUPPLY": [
+          ""
+        ],
+        "GSTRATEINFERAPPLICABILITY": [
+          ""
+        ],
+        "GSTOVRDNNATUREOFGOODS": [
+          ""
+        ],
+        "GSTHSNNAME": [
+          ""
+        ],
+        "GSTHSNDESCRIPTION": [
+          ""
+        ],
+        "GSTHSNINFERAPPLICABILITY": [
+          ""
+        ],
+        "HSNOVRDNCLASSIFICATION": [
+          ""
+        ],
+        "STRDGSTFINALNATUREOFENTRY": [
+          ""
+        ],
+        "STRDGSTDUTYHEAD": [
+          ""
+        ],
+        "VATGOODSNATURE": [
+          ""
+        ],
+        "GSTDEPGSTCLASSIFICATION": [
+          ""
+        ],
+        "GSTDEPHSNCLASSIFICATION": [
+          ""
+        ],
+        "POSPAYMENTTYPE": [
+          ""
+        ],
+        "GSTPARTYLEDGER": [
+          ""
+        ],
+        "ORIGPURCHPARTY": [
+          ""
+        ],
+        "ORIGPURCHPARTYADDRESS": [
+          ""
+        ],
+        "ORIGPURCHINVNO": [
+          ""
+        ],
+        "ORIGPURCHNOTE": [
+          ""
+        ],
+        "ISDEEMEDPOSITIVE": [
+          "No"
+        ],
+        "LEDGERFROMITEM": [
+          "No"
+        ],
+        "REMOVEZEROENTRIES": [
+          "No"
+        ],
+        "ISPARTYLEDGER": [
+          "No"
+        ],
+        "GSTOVERRIDDEN": [
+          "No"
+        ],
+        "ISGSTASSESSABLEVALUEOVERRIDDEN": [
+          "No"
+        ],
+        "STRDISGSTAPPLICABLE": [
+          "No"
+        ],
+        "STRDGSTISPARTYLEDGER": [
+          "No"
+        ],
+        "STRDGSTISDUTYLEDGER": [
+          "No"
+        ],
+        "CONTENTNEGISPOS": [
+          "No"
+        ],
+        "ISLASTDEEMEDPOSITIVE": [
+          "No"
+        ],
+        "ISCAPVATTAXALTERED": [
+          "No"
+        ],
+        "ISCAPVATNOTCLAIMED": [
+          "No"
+        ],
+        "STCRADJPERCENT": [
+          "0"
+        ],
+        "ROUNDLIMIT": [
+          "0"
+        ],
+        "RATEOFADDLVAT": [
+          "0"
+        ],
+        "RATEOFCESSONVAT": [
+          "0"
+        ],
+        "VATTAXRATE": [
+          "0"
+        ],
+        "VATITEMQTY": [
+          "0"
+        ],
+        "VATWCDEDUCTRATE": [
+          "0"
+        ],
+        "PREVINVTOTALNUM": [
+          "0"
+        ],
+        "VATWCDEDUCTIONRATE": [
+          "0"
+        ],
+        "GSTTAXRATE": [
+          "0"
+        ],
+        "ORIGINVGOODSQTY": [
+          "0"
+        ],
+        "CAPVATTAXRATE": [
+          "0"
+        ],
+        "AMOUNT": [
+          "70000.00"
+        ],
+        "CESSASSVALONCLASS": [
+          ""
+        ],
+        "ADDNLVATCLASSAMT": [
+          ""
+        ],
+        "EIDISCOUNTAMT": [
+          ""
+        ],
+        "FBTEXEMPTAMOUNT": [
+          ""
+        ],
+        "VATASSESSABLEVALUE": [
+          ""
+        ],
+        "VATWCCOSTOFLAND": [
+          ""
+        ],
+        "VATWCDEDLABOURCHARGES": [
+          ""
+        ],
+        "VATWCOTHERDEDUCTIONAMT": [
+          ""
+        ],
+        "VATWCVALUEOFTAXFREEGOODS": [
+          ""
+        ],
+        "VATWCOTHERCHARGES": [
+          ""
+        ],
+        "VATWCSUBCONTRACTORAMT": [
+          ""
+        ],
+        "VATWCDEDUCTAMT": [
+          ""
+        ],
+        "WCTOTALDEDUCTIONAMT": [
+          ""
+        ],
+        "PREVAMOUNT": [
+          ""
+        ],
+        "PREVINVTOTALAMT": [
+          ""
+        ],
+        "VATWCDEDUCTIONAMOUNT": [
+          ""
+        ],
+        "ORIGINVGOODSVALUE": [
+          ""
+        ],
+        "CENVATCAPTINPUTAMT": [
+          ""
+        ],
+        "GSTASSESSABLEVALUE": [
+          ""
+        ],
+        "IGSTLIABILITY": [
+          ""
+        ],
+        "CGSTLIABILITY": [
+          ""
+        ],
+        "SGSTLIABILITY": [
+          ""
+        ],
+        "GSTCESSLIABILITY": [
+          ""
+        ],
+        "GSTOVRDNASSESSABLEVALUE": [
+          ""
+        ],
+        "GSTASSBLVALUE": [
+          ""
+        ],
+        "STRDCOMPUTEDASSESSABLEVALUE": [
+          ""
+        ],
+        "STRDCOMPUTEDIGST": [
+          ""
+        ],
+        "STRDCOMPUTEDCGST": [
+          ""
+        ],
+        "STRDCOMPUTEDSGST": [
+          ""
+        ],
+        "STRDCOMPUTEDCESS": [
+          ""
+        ],
+        "STRDCOMPUTEDCESSONQTY": [
+          ""
+        ],
+        "ORIGINVGOODSTAXVALUE": [
+          ""
+        ],
+        "VATWCESTABLISHMENTCOST": [
+          ""
+        ],
+        "VATWCCONTRACTORPROFIT": [
+          ""
+        ],
+        "VATWCPLANNINGDESIGNFEES": [
+          ""
+        ],
+        "VATWCMACHINERYTOOLSCHARGES": [
+          ""
+        ],
+        "VATWCCONSUMABLESCOST": [
+          ""
+        ],
+        "VATEXPAMOUNT": [
+          "70000.00"
+        ],
+        "VATASSBLVALUE": [
+          ""
+        ],
+        "VATACCEPTEDTAXAMT": [
+          ""
+        ],
+        "VATACCEPTEDADDLTAXAMT": [
+          ""
+        ],
+        "CASHRECEIVED": [
+          ""
+        ],
+        "CAPVATASSEABLEVALUE": [
+          ""
+        ],
+        "CAPVATTAXVALUE": [
+          ""
+        ],
+        "ORIGPURCHVALUE": [
+          ""
+        ],
+        "SUPPLYMARGVAL": [
+          ""
+        ],
+        "STRDAPPRSTATECESSGST": [
+          ""
+        ],
+        "STRDAPPROPRIATEDDISCOUNT": [
+          ""
+        ],
+        "STRDEXCISETAX": [
+          ""
+        ],
+        "DENOMINATIONCOUNT2000X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT1000X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT500X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT200X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT100X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT50X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT20X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT10X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT5X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT2X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT1X": [
+          "0"
+        ],
+        "DENOMINATIONAMOUNTOTHERS": [
+          ""
+        ],
+        "CURRPARTYLEDGERNAME": [
+          ""
+        ],
+        "TEMPVATCLASSIFICATION": [
+          ""
+        ],
+        "INVOICEROUNDINGDIFFVAL": [
+          ""
+        ],
+        "VATGCCTAXAMOUNT": [
+          ""
+        ],
+        "GSTCOMPDUTYAMOUNT": [
+          ""
+        ],
+        "EXCISETEMPDUTYVAL": [
+          ""
+        ],
+        "ISVATADJLEDGER": [
+          ""
+        ],
+        "VATASSESMENTATE": [
+          "0"
+        ],
+        "GSTLEDGERDISCOUNT": [
+          ""
+        ],
+        "GVATLEDGEREXCISE": [
+          ""
+        ],
+        "GSTDUTYAMOUNT": [
+          ""
+        ],
+        "RBVATTAXAMOUNT": [
+          ""
+        ],
+        "SALESCESSTAXAMOUNT": [
+          ""
+        ],
+        "TEMPHSNEFFDATE": [
+          ""
+        ],
+        "TEMPTAXRATEEFFDATE": [
+          ""
+        ],
+        "TEMPPREVLEDGERNAME": [
+          ""
+        ],
+        "TEMPPREVINCLLEDNAME": [
+          ""
+        ],
+        "ISACCEPTASIS": [
+          ""
+        ],
+        "SERVICETAXDETAILS.LIST": [
+          "       "
+        ],
+        "BANKALLOCATIONS.LIST": [
+          "       "
+        ],
+        "BILLALLOCATIONS.LIST": [
+          "       "
+        ],
+        "INTERESTCOLLECTION.LIST": [
+          "       "
+        ],
+        "OLDAUDITENTRIES.LIST": [
+          "       "
+        ],
+        "ACCOUNTAUDITENTRIES.LIST": [
+          "       "
+        ],
+        "AUDITENTRIES.LIST": [
+          "       "
+        ],
+        "INPUTCRALLOCS.LIST": [
+          "       "
+        ],
+        "DUTYHEADDETAILS.LIST": [
+          "       "
+        ],
+        "EXCISEDUTYHEADDETAILS.LIST": [
+          "       "
+        ],
+        "RATEDETAILS.LIST": [
+          "       "
+        ],
+        "SUMMARYALLOCS.LIST": [
+          "       "
+        ],
+        "CENVATDUTYALLOCATIONS.LIST": [
+          "       "
+        ],
+        "STPYMTDETAILS.LIST": [
+          "       "
+        ],
+        "EXCISEPAYMENTALLOCATIONS.LIST": [
+          "       "
+        ],
+        "TAXBILLALLOCATIONS.LIST": [
+          "       "
+        ],
+        "TAXOBJECTALLOCATIONS.LIST": [
+          "       "
+        ],
+        "TDSEXPENSEALLOCATIONS.LIST": [
+          "       "
+        ],
+        "VATSTATUTORYDETAILS.LIST": [
+          "       "
+        ],
+        "COSTTRACKALLOCATIONS.LIST": [
+          "       "
+        ],
+        "REFVOUCHERDETAILS.LIST": [
+          "       "
+        ],
+        "INVOICEWISEDETAILS.LIST": [
+          "       "
+        ],
+        "VATITCDETAILS.LIST": [
+          "       "
+        ],
+        "ADVANCETAXDETAILS.LIST": [
+          "       "
+        ],
+        "TAXTYPEALLOCATIONS.LIST": [
+          "       "
+        ]
+      },
+      {
+        "OLDAUDITENTRYIDS.LIST": [
+          {
+            "$": {
+              "TYPE": "Number"
+            },
+            "OLDAUDITENTRYIDS": [
+              "-1"
+            ]
+          }
+        ],
+        "ORIGPURCHINVDATE": [
+          ""
+        ],
+        "NARRATION": [
+          ""
+        ],
+        "ADDLALLOCTYPE": [
+          ""
+        ],
+        "TAXCLASSIFICATIONNAME": [
+          ""
+        ],
+        "APPROPRIATEFOR": [
+          "\u0004 Not Applicable"
+        ],
+        "GSTDUTYHEAD": [
+          ""
+        ],
+        "GSTAPPROPRIATETO": [
+          ""
+        ],
+        "NOTIFICATIONSLNO": [
+          ""
+        ],
+        "EXCISEALLOCTYPE": [
+          ""
+        ],
+        "SWIFTCODE": [
+          ""
+        ],
+        "ROUNDTYPE": [
+          ""
+        ],
+        "LEDGERNAME": [
+          "KOTAK MAHINDRA BANK"
+        ],
+        "TAXUNITNAME": [
+          ""
+        ],
+        "STATNATURENAME": [
+          ""
+        ],
+        "GOODSTYPE": [
+          ""
+        ],
+        "VATTRADENAME": [
+          ""
+        ],
+        "METHODTYPE": [
+          ""
+        ],
+        "CLASSRATE": [
+          ""
+        ],
+        "STATCLASSIFICATIONNAME": [
+          ""
+        ],
+        "EXCISECLASSIFICATIONNAME": [
+          ""
+        ],
+        "ISZRBASICSERVICE": [
+          ""
+        ],
+        "VATCOMMODITYNAME": [
+          ""
+        ],
+        "SCHEDULE": [
+          ""
+        ],
+        "SCHEDULESERIALNUMBER": [
+          ""
+        ],
+        "VATCOMMODITYCODE": [
+          ""
+        ],
+        "VATSUBCOMMODITYCODE": [
+          ""
+        ],
+        "VATMAJORCOMMODITYNAME": [
+          ""
+        ],
+        "STRDGSTDERIVEDLOCATIONTYPE": [
+          ""
+        ],
+        "STRDGSTDERIVEDTAXABILITY": [
+          ""
+        ],
+        "STRDGSTDERIVEDNATURETYPE": [
+          ""
+        ],
+        "STRDGSTDERIVEDSUPPLYTYPE": [
+          ""
+        ],
+        "TDSPARTYNAME": [
+          ""
+        ],
+        "VATPARTYORGNAME": [
+          ""
+        ],
+        "XBRLADJTYPE": [
+          ""
+        ],
+        "VOUCHERFBTCATEGORY": [
+          ""
+        ],
+        "TYPEOFTAXPAYMENT": [
+          ""
+        ],
+        "VATCALCULATIONTYPE": [
+          ""
+        ],
+        "VATWORKSCONTRACTTYPE": [
+          ""
+        ],
+        "VATWCDESCRIPTION": [
+          ""
+        ],
+        "GSTCLASS": [
+          "\u0004 Not Applicable"
+        ],
+        "SCHVIADJTYPE": [
+          ""
+        ],
+        "GSTOVRDNCLASSIFICATION": [
+          ""
+        ],
+        "GSTOVRDNNATURE": [
+          ""
+        ],
+        "GSTOVRDNINELIGIBLEITC": [
+          ""
+        ],
+        "GSTOVRDNISREVCHARGEAPPL": [
+          ""
+        ],
+        "GSTOVRDNTAXABILITY": [
+          ""
+        ],
+        "GSTHSNSACCODE": [
+          ""
+        ],
+        "GSTSOURCETYPE": [
+          ""
+        ],
+        "GSTITEMSOURCE": [
+          ""
+        ],
+        "GSTLEDGERSOURCE": [
+          ""
+        ],
+        "GSTGROUPSOURCE": [
+          ""
+        ],
+        "GSTSTOCKGROUPSOURCE": [
+          ""
+        ],
+        "HSNSOURCETYPE": [
+          ""
+        ],
+        "HSNITEMSOURCE": [
+          ""
+        ],
+        "HSNLEDGERSOURCE": [
+          ""
+        ],
+        "HSNGROUPSOURCE": [
+          ""
+        ],
+        "HSNSTOCKGROUPSOURCE": [
+          ""
+        ],
+        "GSTOVRDNSTOREDNATURE": [
+          ""
+        ],
+        "GSTOVRDNTYPEOFSUPPLY": [
+          ""
+        ],
+        "GSTRATEINFERAPPLICABILITY": [
+          ""
+        ],
+        "GSTOVRDNNATUREOFGOODS": [
+          ""
+        ],
+        "GSTHSNNAME": [
+          ""
+        ],
+        "GSTHSNDESCRIPTION": [
+          ""
+        ],
+        "GSTHSNINFERAPPLICABILITY": [
+          ""
+        ],
+        "HSNOVRDNCLASSIFICATION": [
+          ""
+        ],
+        "STRDGSTFINALNATUREOFENTRY": [
+          ""
+        ],
+        "STRDGSTDUTYHEAD": [
+          ""
+        ],
+        "VATGOODSNATURE": [
+          ""
+        ],
+        "GSTDEPGSTCLASSIFICATION": [
+          ""
+        ],
+        "GSTDEPHSNCLASSIFICATION": [
+          ""
+        ],
+        "POSPAYMENTTYPE": [
+          ""
+        ],
+        "GSTPARTYLEDGER": [
+          ""
+        ],
+        "ORIGPURCHPARTY": [
+          ""
+        ],
+        "ORIGPURCHPARTYADDRESS": [
+          ""
+        ],
+        "ORIGPURCHINVNO": [
+          ""
+        ],
+        "ORIGPURCHNOTE": [
+          ""
+        ],
+        "ISDEEMEDPOSITIVE": [
+          "Yes"
+        ],
+        "LEDGERFROMITEM": [
+          "No"
+        ],
+        "REMOVEZEROENTRIES": [
+          "No"
+        ],
+        "ISPARTYLEDGER": [
+          "Yes"
+        ],
+        "GSTOVERRIDDEN": [
+          "No"
+        ],
+        "ISGSTASSESSABLEVALUEOVERRIDDEN": [
+          "No"
+        ],
+        "STRDISGSTAPPLICABLE": [
+          "No"
+        ],
+        "STRDGSTISPARTYLEDGER": [
+          "No"
+        ],
+        "STRDGSTISDUTYLEDGER": [
+          "No"
+        ],
+        "CONTENTNEGISPOS": [
+          "No"
+        ],
+        "ISLASTDEEMEDPOSITIVE": [
+          "Yes"
+        ],
+        "ISCAPVATTAXALTERED": [
+          "No"
+        ],
+        "ISCAPVATNOTCLAIMED": [
+          "No"
+        ],
+        "STCRADJPERCENT": [
+          "0"
+        ],
+        "ROUNDLIMIT": [
+          "0"
+        ],
+        "RATEOFADDLVAT": [
+          "0"
+        ],
+        "RATEOFCESSONVAT": [
+          "0"
+        ],
+        "VATTAXRATE": [
+          "0"
+        ],
+        "VATITEMQTY": [
+          "0"
+        ],
+        "VATWCDEDUCTRATE": [
+          "0"
+        ],
+        "PREVINVTOTALNUM": [
+          "0"
+        ],
+        "VATWCDEDUCTIONRATE": [
+          "0"
+        ],
+        "GSTTAXRATE": [
+          "0"
+        ],
+        "ORIGINVGOODSQTY": [
+          "0"
+        ],
+        "CAPVATTAXRATE": [
+          "0"
+        ],
+        "AMOUNT": [
+          "-70000.00"
+        ],
+        "CESSASSVALONCLASS": [
+          ""
+        ],
+        "ADDNLVATCLASSAMT": [
+          ""
+        ],
+        "EIDISCOUNTAMT": [
+          ""
+        ],
+        "FBTEXEMPTAMOUNT": [
+          ""
+        ],
+        "VATASSESSABLEVALUE": [
+          ""
+        ],
+        "VATWCCOSTOFLAND": [
+          ""
+        ],
+        "VATWCDEDLABOURCHARGES": [
+          ""
+        ],
+        "VATWCOTHERDEDUCTIONAMT": [
+          ""
+        ],
+        "VATWCVALUEOFTAXFREEGOODS": [
+          ""
+        ],
+        "VATWCOTHERCHARGES": [
+          ""
+        ],
+        "VATWCSUBCONTRACTORAMT": [
+          ""
+        ],
+        "VATWCDEDUCTAMT": [
+          ""
+        ],
+        "WCTOTALDEDUCTIONAMT": [
+          ""
+        ],
+        "PREVAMOUNT": [
+          ""
+        ],
+        "PREVINVTOTALAMT": [
+          ""
+        ],
+        "VATWCDEDUCTIONAMOUNT": [
+          ""
+        ],
+        "ORIGINVGOODSVALUE": [
+          ""
+        ],
+        "CENVATCAPTINPUTAMT": [
+          ""
+        ],
+        "GSTASSESSABLEVALUE": [
+          ""
+        ],
+        "IGSTLIABILITY": [
+          ""
+        ],
+        "CGSTLIABILITY": [
+          ""
+        ],
+        "SGSTLIABILITY": [
+          ""
+        ],
+        "GSTCESSLIABILITY": [
+          ""
+        ],
+        "GSTOVRDNASSESSABLEVALUE": [
+          ""
+        ],
+        "GSTASSBLVALUE": [
+          ""
+        ],
+        "STRDCOMPUTEDASSESSABLEVALUE": [
+          ""
+        ],
+        "STRDCOMPUTEDIGST": [
+          ""
+        ],
+        "STRDCOMPUTEDCGST": [
+          ""
+        ],
+        "STRDCOMPUTEDSGST": [
+          ""
+        ],
+        "STRDCOMPUTEDCESS": [
+          ""
+        ],
+        "STRDCOMPUTEDCESSONQTY": [
+          ""
+        ],
+        "ORIGINVGOODSTAXVALUE": [
+          ""
+        ],
+        "VATWCESTABLISHMENTCOST": [
+          ""
+        ],
+        "VATWCCONTRACTORPROFIT": [
+          ""
+        ],
+        "VATWCPLANNINGDESIGNFEES": [
+          ""
+        ],
+        "VATWCMACHINERYTOOLSCHARGES": [
+          ""
+        ],
+        "VATWCCONSUMABLESCOST": [
+          ""
+        ],
+        "VATEXPAMOUNT": [
+          "-70000.00"
+        ],
+        "VATASSBLVALUE": [
+          ""
+        ],
+        "VATACCEPTEDTAXAMT": [
+          ""
+        ],
+        "VATACCEPTEDADDLTAXAMT": [
+          ""
+        ],
+        "CASHRECEIVED": [
+          ""
+        ],
+        "CAPVATASSEABLEVALUE": [
+          ""
+        ],
+        "CAPVATTAXVALUE": [
+          ""
+        ],
+        "ORIGPURCHVALUE": [
+          ""
+        ],
+        "SUPPLYMARGVAL": [
+          ""
+        ],
+        "STRDAPPRSTATECESSGST": [
+          ""
+        ],
+        "STRDAPPROPRIATEDDISCOUNT": [
+          ""
+        ],
+        "STRDEXCISETAX": [
+          ""
+        ],
+        "DENOMINATIONCOUNT2000X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT1000X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT500X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT200X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT100X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT50X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT20X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT10X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT5X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT2X": [
+          "0"
+        ],
+        "DENOMINATIONCOUNT1X": [
+          "0"
+        ],
+        "DENOMINATIONAMOUNTOTHERS": [
+          ""
+        ],
+        "CURRPARTYLEDGERNAME": [
+          ""
+        ],
+        "TEMPVATCLASSIFICATION": [
+          ""
+        ],
+        "INVOICEROUNDINGDIFFVAL": [
+          ""
+        ],
+        "VATGCCTAXAMOUNT": [
+          ""
+        ],
+        "GSTCOMPDUTYAMOUNT": [
+          ""
+        ],
+        "EXCISETEMPDUTYVAL": [
+          ""
+        ],
+        "ISVATADJLEDGER": [
+          ""
+        ],
+        "VATASSESMENTATE": [
+          "0"
+        ],
+        "GSTLEDGERDISCOUNT": [
+          ""
+        ],
+        "GVATLEDGEREXCISE": [
+          ""
+        ],
+        "GSTDUTYAMOUNT": [
+          ""
+        ],
+        "RBVATTAXAMOUNT": [
+          ""
+        ],
+        "SALESCESSTAXAMOUNT": [
+          ""
+        ],
+        "TEMPHSNEFFDATE": [
+          ""
+        ],
+        "TEMPTAXRATEEFFDATE": [
+          ""
+        ],
+        "TEMPPREVLEDGERNAME": [
+          ""
+        ],
+        "TEMPPREVINCLLEDNAME": [
+          ""
+        ],
+        "ISACCEPTASIS": [
+          ""
+        ],
+        "SERVICETAXDETAILS.LIST": [
+          "       "
+        ],
+        "BANKALLOCATIONS.LIST": [
+          {
+            "DATE": [
+              "20230406"
+            ],
+            "INSTRUMENTDATE": [
+              "20230406"
+            ],
+            "BANKERSDATE": [
+              ""
+            ],
+            "INSTRUMENTRETURNDATE": [
+              ""
+            ],
+            "PDCACTUALDATE": [
+              ""
+            ],
+            "NAME": [
+              "bbbccdb5-4243-44e7-8e0f-8bad9bfad2eb"
+            ],
+            "EMAIL": [
+              ""
+            ],
+            "BRANCHNAME": [
+              ""
+            ],
+            "TRANSACTIONTYPE": [
+              "Cheque/DD"
+            ],
+            "MICRCODE": [
+              ""
+            ],
+            "IFSCODE": [
+              ""
+            ],
+            "BANKNAME": [
+              ""
+            ],
+            "NARRATION": [
+              ""
+            ],
+            "PAYMENTGATEWAY": [
+              ""
+            ],
+            "ACCOUNTNUMBER": [
+              ""
+            ],
+            "PAYMENTFAVOURING": [
+              "KOTAK MAHINDRA BANK(AUTO F.D)"
+            ],
+            "TRANSACTIONNAME": [
+              ""
+            ],
+            "ACCOUNTTYPE": [
+              ""
+            ],
+            "DELIVERYMODE": [
+              ""
+            ],
+            "DELIVERYTO": [
+              ""
+            ],
+            "BANKLOCATION": [
+              ""
+            ],
+            "CITY": [
+              ""
+            ],
+            "PRINTLOCATION": [
+              ""
+            ],
+            "PAYABLELOCATION": [
+              ""
+            ],
+            "CHEQUECROSSCOMMENT": [
+              "A/c Payee"
+            ],
+            "TRANSFERMODE": [
+              "NEFT"
+            ],
+            "TRANSACTIONID": [
+              ""
+            ],
+            "LOCALBANKCHANGES": [
+              ""
+            ],
+            "BENEFICIARYBANKCHANGES": [
+              ""
+            ],
+            "IMBCODE": [
+              ""
+            ],
+            "BANKID": [
+              ""
+            ],
+            "INSTRUMENTNUMBER": [
+              ""
+            ],
+            "TRANSINDEX": [
+              ""
+            ],
+            "UNIQUEREFERENCENUMBER": [
+              "5cagUyVXdckCulr0"
+            ],
+            "BENEFICIARYCODE": [
+              ""
+            ],
+            "STATUS": [
+              "No"
+            ],
+            "BANKERSREMARKS": [
+              ""
+            ],
+            "CASHDENOMINATION": [
+              ""
+            ],
+            "MERCHANTID": [
+              ""
+            ],
+            "TERMINALID": [
+              ""
+            ],
+            "APPROVALCODE": [
+              ""
+            ],
+            "BATCHNUMBER": [
+              ""
+            ],
+            "INVOICENUMBER": [
+              ""
+            ],
+            "CARDNUMBER": [
+              ""
+            ],
+            "BANKCODE": [
+              ""
+            ],
+            "TIPREMARKS": [
+              ""
+            ],
+            "PAYMENTMODE": [
+              "Transacted"
+            ],
+            "SECONDARYSTATUS": [
+              ""
+            ],
+            "BANKEMPLOYEENAME": [
+              ""
+            ],
+            "BANKPARTYNAME": [
+              "KOTAK MAHINDRA BANK(AUTO F.D)"
+            ],
+            "PYMTADVICESTATUS": [
+              ""
+            ],
+            "BRSGROUPID": [
+              ""
+            ],
+            "CLEARINGBANKCODE": [
+              ""
+            ],
+            "DRAWEEBANKCODE": [
+              ""
+            ],
+            "PRINTLOCATIONCODE": [
+              ""
+            ],
+            "PAYABLELOCATIONCODE": [
+              ""
+            ],
+            "PDCREMARKS": [
+              ""
+            ],
+            "SETID": [
+              ""
+            ],
+            "BANKREFERENCE": [
+              ""
+            ],
+            "TRANSACTIONDIGEST": [
+              ""
+            ],
+            "ERRORCODE": [
+              ""
+            ],
+            "RESERVATIONSTATUS": [
+              ""
+            ],
+            "TYPEOFTRANSACTION": [
+              ""
+            ],
+            "ISDELETED": [
+              ""
+            ],
+            "ISCONNECTEDPAYMENT": [
+              "No"
+            ],
+            "ISSPLIT": [
+              "No"
+            ],
+            "ISCONTRACTUSED": [
+              "No"
+            ],
+            "ISACCEPTEDWITHWARNING": [
+              "No"
+            ],
+            "ISTRANSFORCED": [
+              "No"
+            ],
+            "CHEQUEPRINTED": [
+              " 1"
+            ],
+            "AMOUNT": [
+              "-70000.00"
+            ]
+            
+          }
+        ]
+  
+      }
+    ],
+    "GST.LIST": [
+      "      "
+    ],
+    "PAYROLLMODEOFPAYMENT.LIST": [
+      "      "
+    ],
+    "ATTDRECORDS.LIST": [
+      "      "
+    ],
+    "GSTEWAYCONSIGNORADDRESS.LIST": [
+      "      "
+    ],
+    "GSTEWAYCONSIGNEEADDRESS.LIST": [
+      "      "
+    ],
+    "TEMPGSTRATEDETAILS.LIST": [
+      "      "
+    ],
+    "TEMPGSTADVADJUSTED.LIST": [
+      "      "
+    ]
+  }
+]
