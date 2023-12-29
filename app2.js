@@ -204,12 +204,6 @@ const receiptVoucherXML = `
 </ENVELOPE>
 `
 
-
-
-
-
-
-
 const stockitemsXML = `
      <ENVELOPE>
     <HEADER>
@@ -458,6 +452,9 @@ async function fetchSalesVouchers() {
     const salesVouchers = [];
 
     for (let voucher of destructuredArray) {
+      // if (+(voucher?.[0]?.VOUCHERNUMBER[0]) == 4003) {
+
+
       if (voucher) {
         const ADDRESS = voucher[0]?.["BASICBUYERADDRESS.LIST"]?.BASICBUYERADDRESS;
         const DATE = voucher[0]?.DATE[0];
@@ -541,13 +538,25 @@ async function fetchSalesVouchers() {
         };
 
         salesVouchers.push(finalVoucherObj)
+        console.log("voucher object is", finalVoucherObj);
       }
-      // break;
     }
-    console.log("VOUCHERSS", salesVouchers, salesVouchers.length)
+    // }
+    // console.log("VOUCHERSS", salesVouchers, salesVouchers.length)
+
+    // let count = 0
+    // for (let voucher of destructuredArray) {
+    //   if (+(voucher?.[0]?.VOUCHERNUMBER[0]) == 4003) {
+    //     console.log("the vochuer is ", count, voucher[0]?.PARTYNAME[0] ||
+    //       voucher[0]?.PARTYLEDGERNAME[0] ||
+    //       voucher[0]?.BASICBUYERNAME[0])
+    //   }
+    //   count++;
+    // }
+
 
     // console.log("ff", salesVouchers, inventoryItems)
-    // fs.writeFile('hello', JSON.stringify(finalVoucherObj), (err) => {
+    // fs.writeFile('salesVoucher.json', JSON.stringify(destructuredArray[233]), (err) => {
     //   if (err) {
     //     console.error('Error writing to file:', err);
     //   } else {
@@ -555,6 +564,20 @@ async function fetchSalesVouchers() {
     //   }
     // });
 
+    // const saleItems = destructuredArray[233]?.[0]?.["ALLINVENTORYENTRIES.LIST"]
+
+    // for (let item of saleItems) {
+    //   // console.log(item);
+    //   if (item) {
+    //     const STOCKITEM = item?.STOCKITEMNAME?.[0]
+    //     const HSNCODE = item?.GSTHSNNAME?.[0]
+    //     const RATE = item?.RATE?.[0]
+    //     const DISCOUNT = +(item?.DISCOUNT?.[0])
+    //     const AMOUNT = +(item?.AMOUNT?.[0])
+    //     const ACTUALQTY = item?.ACTUALQTY?.[0] || item?.BILLEDQTY?.[0]
+    //     console.log("ff", STOCKITEM, RATE, AMOUNT, ACTUALQTY);
+    //   }
+    // }
 
     const chunkSize = 10; // Set the desired chunk size
     console.log("Total length", salesVouchers.length);
@@ -829,6 +852,6 @@ async function fetchStockItems() {
 // await fetchLedgers();
 // await fetchStockItems()
 // await fetchPurchaseVouchers();
-// await fetchSalesVouchers()
+await fetchSalesVouchers()
 // await fetchPaymentVouchers()
-await fetchReceiptVouchers()
+// await fetchReceiptVouchers()
